@@ -1,7 +1,7 @@
 # MDMCP
 Source code for the article: "A Hybrid Evolutionary Algorithm for the Clique Partitioning Problem" 
 
-1. For the source code, the format input parameters list as follows,    
+1. For the source code, the format of input parameters list as follows,    
    -f ./instance/rand500-100.txt -t 500 -g 123456 -v 309125 -b 8 -c 0.96 -d 1.0 -s 0.6 -p 10
   
 2. Please make sure that the following paper is cited if you use the code in your research.    
