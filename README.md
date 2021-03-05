@@ -8,4 +8,4 @@ Source code for the article: "A Hybrid Evolutionary Algorithm for the Clique Par
    Z. Lu, Y. Zhou and J. -K. Hao, "A Hybrid Evolutionary Algorithm for the Clique Partitioning Problem," in IEEE Transactions on Cybernetics, doi: 10.1109/TCYB.2021.3051243.
 
 3. The source code is distributed for academic purposes only.    
-   If you wish to use it for commercial applications, please contact the authors (zhilusix@gmail.com, zhou.yi@uestc.edu.cn, jin-kao.hao@univangers.fr).
+   If you wish to use it for commercial applications, please contact the authors (zhilusix@gmail.com, zhou.yi@uestc.edu.cn, jin-kao.hao@univ-angers.fr).
