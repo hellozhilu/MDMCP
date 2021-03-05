@@ -12,9 +12,9 @@ int nedge;		//The number of the edges
 int **matrix;	//Adjacent matrix of the input graph
 
 /*Default configuration*/
-char param_filename[1000] = "./instance/rand300-5.txt";
-int param_knownbest = 7732;
-int param_time = 200;		       //the max time for memetic procedure, unit: second
+char param_filename[1000] = "./instance/rand500-100.txt";
+int param_knownbest = 309125;
+int param_time = 500;		       //the max time for memetic procedure, unit: second
 int param_seed = 123456;
 int param_max_generations = 100000;//not used
 //five parameters
