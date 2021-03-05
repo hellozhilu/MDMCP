@@ -1,0 +1,7 @@
+/home/zhi/Eclipse/workspace/cpp_3_memetic/Debug/cpp_3_memetic -f ./instance/rand500-100.txt -t 500 -g 123456 -v 309125 -b 8 -c 0.96 -d 1.0 -s 0.6 -p 10 
+idx	 best_v	 npat	 find_t	 find_i	 ttl_t	  ttl_i
+1	 309125	 7	 5.13	 1	 5.13	 1
+best result: 309125
+average time: 5.13
+average result: 309125.00
+average best iteration: 1
